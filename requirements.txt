@@ -1,0 +1,11 @@
+requests
+openai
+google-cloud-aiplatform
+numpy
+pandas
+scikit-learn
+sentence_transformers
+tqdm
+matplotlib
+fpdf
+python-dotenv

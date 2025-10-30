@@ -1,0 +1,5 @@
+export OPENAI_API_KEY="your_key"
+export GEMINI_API_KEY="your_key"
+export GEMINI_ENDPOINT="https://your-gemini-endpoint"
+export DEEPSEEK_API_KEY="your_key"
+export DEEPSEEK_ENDPOINT="https://your-deepseek-endpoint"
